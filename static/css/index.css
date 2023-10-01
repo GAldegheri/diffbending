@@ -1,5 +1,5 @@
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 
@@ -20,7 +20,7 @@ body {
 
 .teaser .hero-body {
   padding-top: 0;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
 }
 
 .teaser {
@@ -48,11 +48,12 @@ body {
 }
 
 .publication-title {
-    font-family: 'Google Sans', sans-serif;
+    /*font-family: 'Google Sans', sans-serif;*/
+    font-family: 'Oswald', sans-serif;
 }
 
 .publication-authors {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Helvetica', sans-serif;
 }
 
 .publication-venue {
